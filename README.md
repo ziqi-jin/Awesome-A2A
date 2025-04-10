@@ -31,7 +31,7 @@ Agent2Agent (A2A) Protocol is a new communication standard introduced by Google 
 
 - [Google's A2A Protocol Documentation](https://google.github.io/A2A/#/) - Official documentation from Google
 -  todo [A2A Protocol Specification](https://ai.google.dev/docs/a2a_protocol_spec) - Technical specification of the protocol
--  todo [Google AI Blog - A2A Announcement](https://ai.googleblog.com/2024/03/announcing-agent2agent-protocol.html) - Official announcement and overview
+-  [Google AI Blog - A2A Announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/) - Official announcement and overview
 -  [A2A GitHub Repository](https://github.com/google/A2A) - Official implementation and examples
 
 ## Core Concepts
