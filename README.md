@@ -53,7 +53,7 @@ Agent2Agent (A2A) Protocol is a new communication standard introduced by Google 
 
 ### Official Implementations
 -  todo [Google's A2A SDK](https://github.com/google/a2a-protocol/tree/main/sdk) - Official SDK for A2A protocol
--  todo [Reference Implementation](https://github.com/google/a2a-protocol/tree/main/examples) - Example implementations
+-  todo [Reference Implementation](https://github.com/google/A2A/tree/main/samples) - Example implementations
 
 ### Community Implementations
 *Coming soon as the protocol is newly released*
@@ -136,5 +136,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- GitHub Issues:  todo [Report a bug or request a feature](https://github.com/ziqi-jin/awesome-a2a/issues)
-- Discussions:  todo [Join the community discussion](https://github.com/ziqi-jin/awesome-a2a/discussions)
+- GitHub Issues:  [Report a bug or request a feature](https://github.com/ziqi-jin/awesome-a2a/issues)
+- Discussions:  [Join the community discussion](https://github.com/ziqi-jin/awesome-a2a/discussions)
